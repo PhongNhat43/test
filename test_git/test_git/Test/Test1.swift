@@ -17,11 +17,15 @@ class Tes1 {
    }
     
    func reload(){
-   
+       print("check")
    }
     
    func forgotPassWord(){
-   
+       print("check")
+   }
+    
+   func checklogin(){
+     print("check")
    }
   
 }
