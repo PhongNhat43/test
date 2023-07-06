@@ -15,5 +15,17 @@ class Tes1 {
    func register(){
      print("register")
    }
+    
+   func reload(){
+       print("check")
+   }
+    
+   func forgotPassWord(){
+       print("check")
+   }
+    
+   func checklogin(){
+     print("check")
+   }
   
 }
