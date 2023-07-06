@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         self.view.backgroundColor = .green
     }
     
+    func hello(){
+    
+    }
+    
     
 
 
