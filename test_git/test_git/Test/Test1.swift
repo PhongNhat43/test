@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+class Tes1 {
+   func login(){
+     print("login")
+   }
+  
+}
