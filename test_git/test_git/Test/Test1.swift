@@ -6,3 +6,31 @@
 //
 
 import Foundation
+
+class Tes1 {
+   func login(){
+     print("login")
+   }
+    
+   func register(){
+     print("register")
+   }
+    
+   func reload(){
+       print("check")
+   }
+    
+   func forgotPassWord(){
+       print("check")
+   }
+    
+   func checklogin(){
+     print("check")
+   }
+    
+   func pp(){
+     print("PP")
+   }
+     
+  
+}
