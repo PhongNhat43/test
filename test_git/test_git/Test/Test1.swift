@@ -11,5 +11,9 @@ class Tes1 {
    func login(){
      print("login")
    }
+    
+   func register(){
+     print("register")
+   }
   
 }
