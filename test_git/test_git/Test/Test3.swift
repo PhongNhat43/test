@@ -12,5 +12,6 @@ struct Test3 {
     var chu: String
     var ten: String
     var sdt: Int
+    //code
 
 }
