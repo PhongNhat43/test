@@ -7,9 +7,10 @@
 
 import Foundation
 
-struct Test 2 {
+struct Test2 {
     var so: Int
     var chu: String
     var ten: String
+    var sdt: Int
 
 }
