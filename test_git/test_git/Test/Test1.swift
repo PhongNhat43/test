@@ -29,7 +29,8 @@ class Tes1 {
    }
     
    func pp(){
-   
+     print("PP")
    }
+     
   
 }
