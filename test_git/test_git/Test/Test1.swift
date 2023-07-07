@@ -27,5 +27,9 @@ class Tes1 {
    func checklogin(){
      print("check")
    }
+    
+   func pp(){
+   
+   }
   
 }
